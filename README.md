@@ -4,8 +4,8 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## screenshots
 ![Zrzut ekranu 2023-10-10 o 16 49 06](https://github.com/niepsuje/Notes-vue-app/assets/60855281/275cf5e8-fbe8-42a2-8312-6a6ef611eb13)
-![Uploading Zrzut ekranu 2023-10-10 o 16.49.24.png…]()
-![Uploading Zrzut ekranu 2023-10-10 o 16.50.02.png…]()
+![Zrzut ekranu 2023-10-10 o 16 49 24](https://github.com/niepsuje/Notes-vue-app/assets/60855281/33da9449-38e8-4e25-b772-01ecf46e528d)
+![Zrzut ekranu 2023-10-10 o 16 50 02](https://github.com/niepsuje/Notes-vue-app/assets/60855281/cd899f52-e721-4ccb-9ab6-478e6640f725)
 
 
 ## Recommended IDE Setup
